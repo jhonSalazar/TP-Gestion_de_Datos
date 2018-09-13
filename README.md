@@ -1,9 +1,9 @@
 # GDD1C2018_FRBA-Hotel
 Repositorio para materia Gestión de Datos 2018
 
-#Introducción
+# Introducción
 
-#Objetivos generales
+# Objetivos generales
 El presente trabajo práctico persigue los siguientes objetivos generales
 ● Promover la investigación de técnicas de base de datos.
 ● Aplicar la teoría vista en la asignatura en una aplicación concreta.
