@@ -29,3 +29,8 @@ El principal objetivo de este nuevo sistema es mejorar la relación con los hué
 momento de la reserva, haciendo que su estadía sea lo más confortable posible, reivindicando a
 la Empresa en su mejora continua de eficiencia y posicionamiento en el mercado para ajustarse
 a las normas de calidad internacionales.
+
+
+# Tecnologías
+
+C# + SQL Server
